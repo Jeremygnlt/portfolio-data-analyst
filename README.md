@@ -18,9 +18,10 @@ Mes réflexions sur l’évolution de mes compétences
 Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes connaissances dans le domaine de la data. N’hésitez pas à parcourir mes projets et à me contacter pour échanger !
 
 ## Sommaire
-About
 
-Portfolio Projects
+* Présentation 
+
+ Portfolio Projects
 
 Python
 Analyzing the Factors Contributing to the Success of a Movie
