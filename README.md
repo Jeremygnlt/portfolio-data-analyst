@@ -1,4 +1,4 @@
-#Bienvenue sur mon portfolio data analyst
+# Bienvenue sur mon portfolio data analyst
 
 Je m'appelle Jérémy, ancien professionnel du secteur bancaire avec plus de 10 ans d'expérience, et actuellement en reconversion vers le métier de Data Analyst. Je suis passionné par l'analyse des données et convaincu que celles-ci constituent un levier stratégique essentiel pour la prise de décision en entreprise.
 
