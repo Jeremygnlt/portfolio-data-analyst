@@ -21,7 +21,15 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
 
 * [Présentation](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#pr%C3%A9sentation) 
 
- Portfolio Projects
+* Projets
+  * Excel
+    * 2
+  * Power BI
+    * 3
+  * SQL
+    * 4
+  * Python
+    * 5
 
 Python
 Analyzing the Factors Contributing to the Success of a Movie
