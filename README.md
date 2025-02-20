@@ -1,7 +1,4 @@
-Bienvenue sur mon portfolio data analyst 
-
-Bonjour, je m'appelle Jérémy ! J'ai de base une formation dans le domaine bancaire et je suis actuellement en passe d'obtenir ma certification professionnelle de data anaylst. J'ai développé une passion pour l'utilisation des données afin de découvrir des informations significatives. Je suis enthousiaste à l'idée d'apporter mes compétences techniques et analytiques et suis convaincu que la puissance des données peut répondre aux enjeux stratégiques des entreprises.
-
+Bienvenue sur mon portfolio data analyst
 
 Je m'appelle Jérémy, ancien professionnel du secteur bancaire avec plus de 10 ans d'expérience, et actuellement en reconversion vers le métier de Data Analyst. Je suis passionné par l'analyse des données et convaincu que celles-ci constituent un levier stratégique essentiel pour la prise de décision en entreprise.
 
