@@ -19,7 +19,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
 
 ## Sommaire
 
-* Présentation 
+* [Présentation](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#pr%C3%A9sentation) 
 
  Portfolio Projects
 
