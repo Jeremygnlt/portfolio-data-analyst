@@ -25,6 +25,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-analyse-de-ventes-pour-un-e-commerce)
   * [Réalisez une étude de santé publique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#r%C3%A9alisez-une-%C3%A9tude-de-sant%C3%A9-publique-avec-r-ou-python)
   * [Créez et utilisez une base de données immobilière avec SQL](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-et-utilisez-une-base-de-donn%C3%A9es-immobili%C3%A8re-avec-sql)
+  * [Optimisez la gestion des données d'une boutique avec R ou Python]
   * SQL
     * 4
   * Python
@@ -43,4 +44,6 @@ En tant que Data Analyst au sein de l'équipe de la FAO, j'ai contribué à l'é
 
 ### [Créez et utilisez une base de données immobilière avec SQL](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re%20avec%20SQL)
 En tant que Data Analyst chez Laplace Immo, j'ai contribué au projet stratégique DATAImmo, visant à prédire les prix de vente des biens immobiliers et à analyser le marché pour soutenir les agences régionales. Mes missions comprenaient la modification de la base de données pour intégrer les transactions immobilières et les données géographiques, la création d'un schéma relationnel normalisé, l'écriture de requêtes SQL pour extraire des données pertinentes, et la présentation des résultats à travers des supports PowerPoint. J'ai utilisé SQLite pour la gestion de la base de données et SQL pour l'analyse des données.
+
+### [Optimisez la gestion des données d'une boutique avec R ou Python]
 
