@@ -21,7 +21,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
 
 * [Présentation](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#pr%C3%A9sentation) 
 
-* [Projets réalisés](https://github.com/Jeremygnlt/portfolio-data-analyst/edit/main/README.md#projets-r%C3%A9alis%C3%A9s)
+* [Projets réalisés](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#projets-r%C3%A9alis%C3%A9s)
   * Excel
     * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Faites%20une%20analyse%20de%20ventes%20pour%20un%20e-commerce)
   * Power BI
