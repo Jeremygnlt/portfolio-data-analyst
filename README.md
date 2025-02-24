@@ -31,22 +31,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * Python
     * 5
 
-Python
-Analyzing the Factors Contributing to the Success of a Movie
-Tech Store Sales Analysis
-SQL
-Covid 19 Data Exploration
-Nashville Housing Data Cleaning
-R
-Legendary Pokémon Analysis (Study Project)
-Excel / Google Sheets
-Tableau---> go to Tableau..
-Power BI
-Education
-
-Certificates
-
-Contact
+* Candidature Aeroworld
 
 ## Projets réalisés
 Dans cette partie je détaillerai les projets data que j'ai pu réaliser.
