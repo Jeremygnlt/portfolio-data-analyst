@@ -9,9 +9,9 @@ Je m'appelle Jérémy, ancien professionnel du secteur bancaire avec plus de 10 
 💼 Expérience : Mon parcours m'a permis de développer des compétences en gestion de la relation client, en commercialisation de produits financiers, ainsi qu'en formation et support. Aujourd’hui, j'allie cette expertise métier à des compétences analytiques et techniques pour transformer les données en informations stratégiques et faciliter la prise de décision.
 
 🚀 Ce que vous trouverez sur ce portfolio :
-Mes projets d’analyse de données
-Mes travaux sur Power BI, Python et d’autres outils d’analyse
-Mes réflexions sur l’évolution de mes compétences
+Mes projets d’analyse de données,
+Mes travaux sur Power BI, Python et d’autres outils d’analyse,
+Mes réflexions sur l’évolution de mes compétences.
 
 📩 Contact : jeremy.guinault@gmail.com | [LinkedIn](https://www.linkedin.com/in/jeremy-guinault-384360114/)
 
