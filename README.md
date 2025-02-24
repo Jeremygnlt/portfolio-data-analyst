@@ -21,9 +21,9 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
 
 * [Présentation](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#pr%C3%A9sentation) 
 
-* Projets
+* [Projets réalisés](https://github.com/Jeremygnlt/portfolio-data-analyst/edit/main/README.md#projets-r%C3%A9alis%C3%A9s)
   * Excel
-    * 2
+    * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/edit/main/README.md#faites-une-analyse-de-ventes-pour-un-e-commerce)
   * Power BI
     * 3
   * SQL
@@ -48,3 +48,20 @@ Certificates
 
 Contact
 
+## Projets réalisés
+Dans cette partie je détaillerai les projets data que j'ai pu réaliser.
+
+### Faites une analyse de ventes pour un e-commerce
+
+**Contexte** :
+Vous êtes Data Analyst au service Marketing du Grand Marché (LGM), une entreprise de grande distribution spécialisée dans l'alimentaire et les biens de consommation. LGM gère un entrepôt et livre à domicile les commandes passées sur son site Internet.
+Depuis un an, l'entreprise a adopté une nouvelle stratégie : elle a arrêté le segment High tech pour se concentrer uniquement sur la nourriture et les biens de consommation. Chaque début de mois, vous êtes chargé d'analyser les résultats du mois précédent et de produire un rapport détaillé pour la direction. Ce rapport est crucial pour évaluer l'efficacité des actions marketing et orienter les décisions stratégiques futures.
+
+**Objectifs** :
+Analyser la baisse du chiffre d'affaires et prévoir son évolution.
+Mettre à jour le tableau de bord des clients affiliés avec les données de février.
+
+**Tâches** :
+Analyser la baisse du chiffre d'affaires.
+Créer une présentation PowerPoint.
+Mettre à jour les chiffres et les temps d'achat (Excel).
