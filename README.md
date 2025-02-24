@@ -23,7 +23,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
 
 * [Projets réalisés](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#projets-r%C3%A9alis%C3%A9s)
   * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-analyse-de-ventes-pour-un-e-commerce)
-  * Power BI
+  * Réalisez une étude de santé publique avec R ou Python
     * 3
   * SQL
     * 4
@@ -38,3 +38,6 @@ Dans cette partie je détaillerai les projets data que j'ai pu réaliser.
 ### [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Faites%20une%20analyse%20de%20ventes%20pour%20un%20e-commerce)
 
 En tant que Data Analyst au service Marketing du Grand Marché (LGM), j'ai analysé les performances des ventes en ligne et évalué l'impact des campagnes marketing. Depuis un an, LGM se concentrait exclusivement sur les produits alimentaires et de consommation courante. Mes missions incluaient l’analyse des variations du chiffre d’affaires, la mise à jour du tableau de bord clients, la prévision des ventes à partir des données historiques, ainsi que la création de rapports PowerPoint accessibles pour la direction. J’utilisais principalement Excel pour la gestion des données et PowerPoint pour la présentation des résultats.
+
+
+
