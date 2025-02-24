@@ -23,7 +23,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
 
 * [Projets réalisés](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#projets-r%C3%A9alis%C3%A9s)
   * Excel
-    * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Faites%20une%20analyse%20de%20ventes%20pour%20un%20e-commerce)
+    * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-analyse-de-ventes-pour-un-e-commerce)
   * Power BI
     * 3
   * SQL
