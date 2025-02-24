@@ -26,7 +26,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Réalisez une étude de santé publique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#r%C3%A9alisez-une-%C3%A9tude-de-sant%C3%A9-publique-avec-r-ou-python)
   * [Créez et utilisez une base de données immobilière avec SQL](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-et-utilisez-une-base-de-donn%C3%A9es-immobili%C3%A8re-avec-sql)
   * [Optimisez la gestion des données d'une boutique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#optimisez-la-gestion-des-donn%C3%A9es-dune-boutique-avec-r-ou-python)
-  * Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
+  * [Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-un-tableau-de-bord-dynamique-avec-power-bi-pour-visualiser-lavancement-de-projets)
   * Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD
   * Analysez les ventes d'une librairie avec R ou Python
   * Faites une étude sur l'eau potable
