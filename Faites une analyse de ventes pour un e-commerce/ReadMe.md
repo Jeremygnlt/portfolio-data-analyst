@@ -26,6 +26,6 @@ En tant que Data Analyst au sein du service Marketing du Grand Marché (LGM), un
 
 ## 🎓 Compétences acquises
 - Analyser les performances commerciales et identifier les causes d'une baisse des ventes.  
-- Manipuler et visualiser les données sous Excel, en appliquant des bonnes pratiques d’accessibilité (choix des couleurs, formats, contrastes).  
+- Manipuler et visualiser les données sous Excel, en appliquant des bonnes pratiques d’accessibilité.  
 - Présenter des résultats de manière claire et synthétique dans un rapport PowerPoint, avec une approche de storytelling pour dynamiser la présentation et rendre l’analyse plus engageante.  
 - Automatiser la mise à jour des indicateurs dans Excel pour améliorer l'efficacité et la cohérence des données présentées.
