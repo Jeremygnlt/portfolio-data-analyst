@@ -10,8 +10,8 @@ Je m'appelle Jérémy, ancien professionnel du secteur bancaire avec plus de 10 
 
 🚀 Ce que vous trouverez sur ce portfolio :
 Mes projets d’analyse de données,
-Mes travaux sur Power BI, Python et d’autres outils d’analyse,
-Mes réflexions sur l’évolution de mes compétences.
+mes travaux sur Power BI, Python et d’autres outils d’analyse,
+mes réflexions sur l’évolution de mes compétences.
 
 📩 Contact : jeremy.guinault@gmail.com | [LinkedIn](https://www.linkedin.com/in/jeremy-guinault-384360114/)
 
