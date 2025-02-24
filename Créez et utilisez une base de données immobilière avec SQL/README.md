@@ -15,7 +15,7 @@ En tant que **Data Analyst** chez **Laplace Immo**, un réseau national d’agen
 - **Écriture de requêtes SQL** : Créer des requêtes pour répondre à des problématiques métiers et extraire des données pertinentes pour l'analyse du marché immobilier.
 
 ## 🔧 Outils utilisés
-- **SQLite / PostgreSQL / MySQL** : Pour la gestion de la base de données et l’implémentation du schéma relationnel.
+- **SQLite** : Pour la gestion de la base de données et l’implémentation du schéma relationnel.
 - **SQL** : Pour la création et l’exécution de requêtes destinées à extraire des données et effectuer des analyses.
 - **PowerPoint** : Pour la présentation des résultats de l’analyse et la validation du schéma relationnel.
 
