@@ -17,7 +17,7 @@ En tant que Data Analyst au sein du service Marketing du Grand Marché (LGM), un
   - Analyse des tendances et des indicateurs de performance.  
   - Mise à jour des chiffres de ventes et du tableau de bord.  
 - **PowerPoint** :  
-  - Création d'une présentation professionnelle pour la direction avec un design accessible et dynamique.
+  - Création d'une présentation professionnelle avec un design accessible et dynamique.
 
 
 ## ✅ Livrables 
