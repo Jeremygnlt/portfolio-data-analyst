@@ -1,5 +1,5 @@
 ## 📋 Situation
-En tant que **Data Analyst** chez **BottleNeck**, un marchand de vin prestigieux, vous commencez une mission visant à améliorer la gestion des stocks et l’analyse des ventes. L’entreprise utilise des outils artisanaux pour l’analyse des données, et la gestion des stocks est complexe. Vous êtes chargé de rapprocher et d’analyser les données des différentes sources afin de mieux comprendre les performances des produits et d’identifier les erreurs présentes dans les systèmes. La mission est divisée en deux phases : **agréger les données** et **analyser les données pour le CODIR**. Vous présenterez vos résultats au comité de direction (CODIR).
+En tant que **Data Analyst** chez **BottleNeck**, un marchand de vin prestigieux, j'ai réalisé une mission visant à améliorer la gestion des stocks et l’analyse des ventes. L’entreprise utilise des outils artisanaux pour l’analyse des données, et la gestion des stocks est complexe. J'étais chargé de rapprocher et d’analyser les données des différentes sources afin de mieux comprendre les performances des produits et d’identifier les erreurs présentes dans les systèmes. La mission est divisée en deux phases : **agréger les données** et **analyser les données pour le CODIR**.
 
 ## 🎯 Objectifs
 - Agréger les fichiers de données provenant de l'**ERP**, du **site Web** et de la **table de liaison** pour permettre l’exploitation des informations.
@@ -23,21 +23,17 @@ En tant que **Data Analyst** chez **BottleNeck**, un marchand de vin prestigieux
 - **Analyser la corrélation** entre les données quantitatives (prix, prix d’achat, stock, ventes, taux de marge, etc.).
 
 ## 🔧 Outils utilisés
-- **Python / R** : Pour l'agrégation des données, le nettoyage et l’analyse des erreurs.
-- **SQL** : Pour manipuler les bases de données et exécuter des requêtes pertinentes.
+- **Python** : Pour l'agrégation des données, le nettoyage et l’analyse des erreurs.
+- **Notebook Jupyter** : Pour documenter le processus et l’analyse des données.
 - **PowerPoint** : Pour la présentation des résultats de l’analyse au CODIR.
-- **Notebook Python** : Pour documenter le processus et l’analyse des données.
 
 ## ✅ Livrables
-1. **Données agrégées** et nettoyées, prêtes pour analyse.
-2. **Rapport détaillé** des erreurs identifiées, des solutions proposées et de la gestion des incohérences, en conformité avec le **RGPD**.
+1. **Notebooks** présentant les données et les analyses réalisées.
 3. **Présentation PowerPoint** synthétique des analyses effectuées (chiffre d'affaires, erreurs de saisie, top références, corrélations).
-4. **Analyse des corrélations** entre les données quantitatives (prix, stock, ventes, etc.).
 
 ## 🎓 Compétences acquises
 - Maîtrise des techniques de **prétraitement de données** (identification et correction des erreurs, gestion des incohérences).
 - Compétences en **analyse univariée et multivariée** pour extraire des insights des données agrégées.
-- Expérience dans l’utilisation de **Python/R** pour le nettoyage et l’analyse de données.
-- Capacité à préparer une **présentation claire et synthétique** pour le comité de direction, en s’alignant sur leurs préoccupations.
-- Connaissance de la **conformité RGPD** dans la gestion des données.
+- Expérience dans l’utilisation de **Python** pour le nettoyage et l’analyse de données.
+- Capacité à préparer une **présentation claire et synthétique**.
 
