@@ -13,9 +13,9 @@ Dans le cadre de cette mission, je collabore avec Sophie, cheffe de projet au se
 
 ## 📊 Tâches
 - Élaborer un Product Strategy Canvas pour cadrer les attentes.
-- Explorer et comprendre les données issues du logiciel de gestion de projets (période : 2018 - début 2022).
+- Explorer et comprendre les données issues du logiciel de gestion de projets.
 - Nettoyer et transformer les données avec Power Query Editor pour automatiser la mise à jour hebdomadaire.
-- Créer un mockup (maquette initiale) pour valider la structure du tableau de bord.
+- Créer un mockup pour valider la structure du tableau de bord.
 - Implémenter des visualisations adaptées : graphiques de suivi des coûts, analyse des retards, performances.
 - Intégrer un onglet dédié aux explications : Product Strategy Canvas, étapes de mise à jour des données, description du modèle de données et des relations.
 - Présenter le tableau de bord et expliquer les axes stratégiques détectés.
