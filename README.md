@@ -23,7 +23,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
 
 * [Projets réalisés](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#projets-r%C3%A9alis%C3%A9s)
   * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-analyse-de-ventes-pour-un-e-commerce)
-  * Réalisez une étude de santé publique avec R ou Python
+ * [Réalisez une étude de santé publique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#r%C3%A9alisez-une-%C3%A9tude-de-sant%C3%A9-publique-avec-r-ou-python)
     * 3
   * SQL
     * 4
