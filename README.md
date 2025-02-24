@@ -27,7 +27,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Créez et utilisez une base de données immobilière avec SQL](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-et-utilisez-une-base-de-donn%C3%A9es-immobili%C3%A8re-avec-sql)
   * [Optimisez la gestion des données d'une boutique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#optimisez-la-gestion-des-donn%C3%A9es-dune-boutique-avec-r-ou-python)
   * [Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-un-tableau-de-bord-dynamique-avec-power-bi-pour-visualiser-lavancement-de-projets)
-  * Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD
+  * [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD]
   * Analysez les ventes d'une librairie avec R ou Python
   * Faites une étude sur l'eau potable
   * Produisez une étude de marché avec R ou Python
@@ -54,3 +54,4 @@ En tant que Data Analyst chez BottleNeck, j'ai participé à une mission en deux
 ### [Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Cr%C3%A9ez%20un%20tableau%20de%20bord%20dynamique%20avec%20Power%20BI%20pour%20visualiser%20l'avancement%20de%20projets)
 En tant que Consultant Data Analyst chez ESN Data, j'ai participé à la création d'un tableau de bord Power BI pour Sanitoral, une société spécialisée dans les soins bucco-dentaires. Ma mission consistait à formaliser les besoins via un Product Strategy Canvas, à nettoyer et transformer les données issues du logiciel de gestion de projets (2018-2022) avec Power Query Editor, et à concevoir des visualisations interactives pour suivre l'avancement des projets, les coûts et les retards. J'ai également documenté le modèle de données et la procédure de mise à jour pour assurer la pérennité de la solution.
 
+### [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD]
