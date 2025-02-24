@@ -34,7 +34,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * Détectez des faux billets avec R ou Python
   
 
-* Candidature Aeroworld
+* [Candidature Aeroworld](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Candidature%20Aeroworld)
 
 ## Projets réalisés
 Dans cette partie je détaillerai les projets data que j'ai pu réaliser durant ma formation OpenClassrooms.
