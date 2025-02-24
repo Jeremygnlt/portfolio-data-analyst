@@ -24,7 +24,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
 * [Projets réalisés](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#projets-r%C3%A9alis%C3%A9s)
   * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-analyse-de-ventes-pour-un-e-commerce)
   * [Réalisez une étude de santé publique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#r%C3%A9alisez-une-%C3%A9tude-de-sant%C3%A9-publique-avec-r-ou-python)
-    * 3
+  * [Créez et utilisez une base de données immobilière avec SQL]
   * SQL
     * 4
   * Python
@@ -40,4 +40,6 @@ En tant que Data Analyst au service Marketing du Grand Marché (LGM), j'ai analy
 
 ### [Réalisez une étude de santé publique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/R%C3%A9alisez%20une%20%C3%A9tude%20de%20sant%C3%A9%20publique%20avec%20R%20ou%20Python)
 En tant que Data Analyst au sein de l'équipe de la FAO, j'ai contribué à l'étude sur la sous-nutrition mondiale en analysant les données historiques de 2013 à 2017. Mes missions comprenaient le traitement des données, la création de nouvelles variables, l'exécution d'analyses statistiques et l'élaboration de rapports PowerPoint pour présenter les résultats. J'ai utilisé principalement **Python** pour les analyses et documenté le processus dans un **notebook** afin de garantir la clarté et la reproductibilité des résultats.
+
+### [Créez et utilisez une base de données immobilière avec SQL]
 
