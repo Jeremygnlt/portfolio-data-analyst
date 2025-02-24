@@ -1,7 +1,7 @@
 # Projet DATAImmo - Laplace Immo
 
 ## 📋 Situation
-En tant que **Data Analyst** chez **Laplace Immo**, un réseau national d’agences immobilières, vous êtes chargé de participer à un projet stratégique appelé **DATAImmo**. Ce projet vise à créer un modèle permettant de mieux prédire les prix de vente des biens immobiliers et d'analyser le marché pour aider les agences régionales à mieux accompagner leurs clients. Le directeur général de l'entreprise, conscient de l'importance des données, a décidé de se démarquer de la concurrence en développant cette solution de prévision. Le projet est dirigé par la CTO, **Clara Daucourt**.
+En tant que **Data Analyst** chez **Laplace Immo**, un réseau national d’agences immobilières, nous sommes chargé de participer à un projet stratégique appelé **DATAImmo**. Ce projet vise à créer un modèle permettant de mieux prédire les prix de vente des biens immobiliers et d'analyser le marché pour aider les agences régionales à mieux accompagner leurs clients. Le directeur général de l'entreprise, conscient de l'importance des données, a décidé de se démarquer de la concurrence en développant cette solution de prévision.
 
 ## 🎯 Objectifs
 - Modifier la **base de données** pour collecter les **transactions immobilières et foncières** en France.
