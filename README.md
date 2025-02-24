@@ -25,7 +25,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Faites une analyse de ventes pour un e-commerce](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-analyse-de-ventes-pour-un-e-commerce)
   * [Réalisez une étude de santé publique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main?tab=readme-ov-file#r%C3%A9alisez-une-%C3%A9tude-de-sant%C3%A9-publique-avec-r-ou-python)
   * [Créez et utilisez une base de données immobilière avec SQL](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-et-utilisez-une-base-de-donn%C3%A9es-immobili%C3%A8re-avec-sql)
-  * [Optimisez la gestion des données d'une boutique avec R ou Python]
+  * [Optimisez la gestion des données d'une boutique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#optimisez-la-gestion-des-donn%C3%A9es-dune-boutique-avec-r-ou-python)
   * SQL
     * 4
   * Python
