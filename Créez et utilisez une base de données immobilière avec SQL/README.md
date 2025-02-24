@@ -26,5 +26,5 @@ En tant que **Data Analyst** chez **Laplace Immo**, un réseau national d’agen
 - Maîtrise des outils de **gestion de bases de données** et des normes de normalisation (3NF).
 - Création et gestion de **requêtes SQL** pour extraire et analyser les données.
 - Capacité à garantir la conformité des données au **RGPD**.
-- Présentation claire des résultats et de la méthodologie utilisée à travers des supports PowerPoint.
+- Présentation claire des résultats et de la méthodologie utilisée à travers un diaporama.
 
