@@ -1,4 +1,4 @@
-# 📋 Scénario
+## 📋 Situation
 En tant que Data Analyst au sein du service Marketing du Grand Marché (LGM), une entreprise spécialisée dans la distribution alimentaire et les biens de consommation, vous êtes chargé d'analyser les performances des ventes en ligne. Depuis un an, LGM a abandonné le segment High Tech pour se concentrer exclusivement sur les produits alimentaires et de consommation courante. Chaque mois, vous fournissez un rapport détaillé à la direction pour évaluer l'impact des campagnes marketing et orienter les décisions stratégiques.
 
 ## 🎯 Objectifs
