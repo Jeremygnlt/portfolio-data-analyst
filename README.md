@@ -65,6 +65,7 @@ Mes missions incluaient l'étude du chiffre d'affaires, l'analyse des profils cl
 En tant que Data Analyst, j'ai contribué au projet DWFA sur l’accès à l’eau potable en concevant trois tableaux de bord interactifs. Mon rôle a consisté à agréger et structurer les données par pays, continent et monde, puis à créer des visualisations adaptées pour analyser les facteurs influençant l'accès à l’eau potable. J'ai intégré des filtres dynamiques pour garantir l'interactivité et l'accessibilité des tableaux de bord. J'ai utilisé Power BI pour la création des dashboards et PowerPoint pour la présentation des résultats.
 
 ### [Produisez une étude de marché avec R ou Python]
+En tant que Data Analyst chez La Poule qui Chante, une entreprise agroalimentaire spécialisée dans l’élevage et la vente de poulets sous le label "Poulet Agriculture Biologique", j'ai été chargé d’évaluer la possibilité d’expansion internationale. Mon rôle consistait à analyser les données de pays potentiels pour l'exportation des produits, en utilisant des variables économiques, sociales et politiques issues de la FAO et d'autres sources. J'ai réalisé une analyse en composantes principales (ACP) et un clustering pour identifier des groupes de pays cibles. J'ai également préparé un support de présentation PowerPoint pour présenter les résultats et les recommandations stratégiques à la direction. J’ai utilisé Python ou R pour l’analyse des données et PowerPoint pour la présentation des résultats.
 
 ### [Détectez des faux billets avec R ou Python]
 
