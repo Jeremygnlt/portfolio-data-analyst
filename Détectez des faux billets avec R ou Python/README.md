@@ -20,20 +20,18 @@ En tant que Consultant Data Analyst, je suis déployé chez l'Organisation natio
 - Documentation et présentation : Rédaction d’un rapport détaillant les choix méthodologiques, les résultats des tests des différents algorithmes, et la justification du modèle final retenu.
   
 ## 🔧 Outils utilisés
-Python : Librairies pandas, numpy, scikit-learn, matplotlib, et seaborn pour l’analyse des données et la modélisation.
-Régression linéaire/polynomiale pour combler les valeurs manquantes dans les données.
-Scikit-learn pour la mise en œuvre des algorithmes de machine learning (régression logistique, KNN, Random Forest).
-Matplotlib / Seaborn pour les visualisations des résultats.
-Jupyter Notebook pour l’application fonctionnelle et la présentation des résultats.
+- Python :
+   - Librairies pandas, numpy, Matplotlib / Seaborn pour les visualisations des résultats, Scikit-learn pour la mise en œuvre des algorithmes de machine learning (régression logistique, KNN, Random Forest).
+   - Régression linéaire/polynomiale pour combler les valeurs manquantes dans les données.
+- Jupyter Notebook pour l’application fonctionnelle et la présentation des résultats.
 
-✅ Livrables
-Application fonctionnelle : Notebook Python avec l’application prédictive pour identifier la nature des billets à partir des données géométriques.
-Analyse et rapport détaillé : Résultats des tests des algorithmes, comparaison des modèles avec justifications techniques, et sélection du modèle final.
-Support de présentation : Détail des traitements réalisés, des résultats des différents algorithmes et choix du modèle final, avec une démonstration de l’application fonctionnelle.
-🎓 Compétences acquises
+## ✅ Livrables
+- Application fonctionnelle : Notebook Python avec l’application prédictive pour identifier la nature des billets à partir des données géométriques.
+- Analyse et rapport détaillé : Résultats des tests des algorithmes, comparaison des modèles avec justifications techniques, et sélection du modèle final.
+- Support de présentation : Détail des traitements réalisés, des résultats des différents algorithmes et choix du modèle final, avec une démonstration de l’application fonctionnelle.
 
-Maîtrise des algorithmes de machine learning et de l’évaluation de leur performance.
-Utilisation de régression linéaire/polynomiale pour traiter les valeurs manquantes dans un jeu de données.
-Conception d’une application fonctionnelle de prédiction en utilisant les bibliothèques Python.
-Présentation des résultats techniques de manière claire et structurée.
-Rédaction d’une documentation détaillée sur la méthodologie et les choix algorithmiques.
+## 🎓 Compétences acquises
+- Maîtrise des algorithmes de machine learning et de l’évaluation de leur performance.
+- Utilisation de régression linéaire/polynomiale pour traiter les valeurs manquantes dans un jeu de données.
+- Conception d’une application fonctionnelle de prédiction en utilisant les bibliothèques Python.
+- Présentation des résultats techniques de manière claire et structurée.
