@@ -29,7 +29,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-un-tableau-de-bord-dynamique-avec-power-bi-pour-visualiser-lavancement-de-projets)
   * [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-des-indicateurs-de-l%C3%A9galit%C3%A9-femmeshommes-en-respect-du-rgpd)
   * [Analysez les ventes d'une librairie avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-les-ventes-dune-librairie-avec-r-ou-python)
-  * Faites une étude sur l'eau potable
+  * [Faites une étude sur l'eau potable]
   * Produisez une étude de marché avec R ou Python
   * Détectez des faux billets avec R ou Python
   
@@ -60,3 +60,5 @@ En tant que Data Analyst dans un cabinet de consultants spécialisés dans la tr
 ### [Analysez les ventes d'une librairie avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Analysez%20les%20ventes%20d'une%20librairie%20avec%20R%20ou%20Python)
 En tant que Data Analyst chez Lapage, une librairie physique ayant lancé son site de vente en ligne, j'ai analysé les ventes et le comportement des clients pour optimiser la stratégie commerciale.
 Mes missions incluaient l'étude du chiffre d'affaires, l'analyse des profils clients (âge, genre) et la réalisation de tests statistiques. J'ai synthétisé les résultats dans un support PowerPoint pour orienter les décisions du CODIR, en utilisant Python pour l'analyse et PowerPoint pour la présentation.
+
+## [Faites une étude sur l'eau potable]
