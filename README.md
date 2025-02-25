@@ -30,7 +30,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-des-indicateurs-de-l%C3%A9galit%C3%A9-femmeshommes-en-respect-du-rgpd)
   * [Analysez les ventes d'une librairie avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-les-ventes-dune-librairie-avec-r-ou-python)
   * [Faites une étude sur l'eau potable](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-%C3%A9tude-sur-leau-potable)
-  * [Produisez une étude de marché avec R ou Python](
+  * [Produisez une étude de marché avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#produisez-une-%C3%A9tude-de-march%C3%A9-avec-r-ou-python)
   * [Détectez des faux billets avec R ou Python]
   
 
