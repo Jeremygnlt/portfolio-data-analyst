@@ -28,7 +28,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Optimisez la gestion des données d'une boutique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#optimisez-la-gestion-des-donn%C3%A9es-dune-boutique-avec-r-ou-python)
   * [Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-un-tableau-de-bord-dynamique-avec-power-bi-pour-visualiser-lavancement-de-projets)
   * [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-des-indicateurs-de-l%C3%A9galit%C3%A9-femmeshommes-en-respect-du-rgpd)
-  * [Analysez les ventes d'une librairie avec R ou Python]
+  * [Analysez les ventes d'une librairie avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-les-ventes-dune-librairie-avec-r-ou-python)
   * Faites une étude sur l'eau potable
   * Produisez une étude de marché avec R ou Python
   * Détectez des faux billets avec R ou Python
@@ -58,6 +58,5 @@ En tant que Consultant Data Analyst chez ESN Data, j'ai participé à la créati
 En tant que Data Analyst dans un cabinet de consultants spécialisés dans la transformation digitale, j'ai travaillé sur un projet visant à automatiser le rapport sur l'égalité femmes-hommes pour une entreprise en croissance. Ma mission a consisté à collecter et anonymiser les données du SIRH en conformité avec le RGPD, à créer un workflow KNIME pour agréger les données et générer des graphiques illustrant la répartition hommes/femmes, ainsi qu'à préparer un fichier .csv pour les analyses futures. J'ai également préparé un support de présentation expliquant la méthodologie de collecte, les indicateurs calculés et proposant des pistes d'amélioration pour le score d'égalité l'année suivante.
 
 ### [Analysez les ventes d'une librairie avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Analysez%20les%20ventes%20d'une%20librairie%20avec%20R%20ou%20Python)
-En tant que Data Analyst chez Lapage, une librairie physique ayant lancé son site de vente en ligne il y a deux ans, j'ai analysé les ventes et le comportement des clients en ligne. L'objectif était d'optimiser la stratégie commerciale en identifiant les habitudes d'achat, en étudiant les tendances clés, et en fournissant des recommandations stratégiques pour orienter les décisions du CODIR.
-Mes missions incluaient l'analyse du chiffre d'affaires par catégorie, l'étude des corrélations entre le profil client (âge, genre) et les comportements d'achat, ainsi que la réalisation de tests statistiques pour valider les observations. J'ai également synthétisé les résultats dans un support PowerPoint destiné au CODIR.
-J'ai utilisé Python (Pandas, Matplotlib, Seaborn, SciPy) pour l'analyse et la visualisation des données, et PowerPoint pour la présentation des résultats.
+En tant que Data Analyst chez Lapage, une librairie physique ayant lancé son site de vente en ligne, j'ai analysé les ventes et le comportement des clients pour optimiser la stratégie commerciale.
+Mes missions incluaient l'étude du chiffre d'affaires, l'analyse des profils clients (âge, genre) et la réalisation de tests statistiques. J'ai synthétisé les résultats dans un support PowerPoint pour orienter les décisions du CODIR, en utilisant Python pour l'analyse et PowerPoint pour la présentation.
