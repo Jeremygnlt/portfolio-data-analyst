@@ -30,8 +30,8 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-des-indicateurs-de-l%C3%A9galit%C3%A9-femmeshommes-en-respect-du-rgpd)
   * [Analysez les ventes d'une librairie avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-les-ventes-dune-librairie-avec-r-ou-python)
   * [Faites une étude sur l'eau potable](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-%C3%A9tude-sur-leau-potable)
-  * Produisez une étude de marché avec R ou Python
-  * Détectez des faux billets avec R ou Python
+  * [Produisez une étude de marché avec R ou Python]
+  * [Détectez des faux billets avec R ou Python]
   
 
 * [Candidature Aeroworld](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Candidature%20Aeroworld)
@@ -63,3 +63,9 @@ Mes missions incluaient l'étude du chiffre d'affaires, l'analyse des profils cl
 
 ### [Faites une étude sur l'eau potable](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Faites%20une%20%C3%A9tude%20sur%20l'eau%20potable)
 En tant que Data Analyst, j'ai contribué au projet DWFA sur l’accès à l’eau potable en concevant trois tableaux de bord interactifs. Mon rôle a consisté à agréger et structurer les données par pays, continent et monde, puis à créer des visualisations adaptées pour analyser les facteurs influençant l'accès à l’eau potable. J'ai intégré des filtres dynamiques pour garantir l'interactivité et l'accessibilité des tableaux de bord. J'ai utilisé Power BI pour la création des dashboards et PowerPoint pour la présentation des résultats.
+
+### [Produisez une étude de marché avec R ou Python]
+
+### [Détectez des faux billets avec R ou Python]
+
+
