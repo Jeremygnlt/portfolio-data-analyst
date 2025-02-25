@@ -68,5 +68,6 @@ En tant que Data Analyst, j'ai contribué au projet DWFA sur l’accès à l’e
 En tant que Data Analyst chez La Poule qui Chante, une entreprise agroalimentaire spécialisée dans le poulet bio, j’ai analysé les opportunités d’expansion internationale. Mon travail consistait à identifier des pays cibles pour l’exportation en utilisant des données économiques et politiques. J’ai réalisé une analyse en composantes principales (ACP) et un clustering pour regrouper les pays potentiels. J’ai ensuite présenté mes résultats et recommandations à la direction via PowerPoint, en utilisant Python pour l’analyse des données.
 
 ### [Détectez des faux billets avec R ou Python]
+En tant que Data Analyst, j'ai contribué au projet de lutte contre le faux-monnayage pour l'ONCFM en développant un modèle de machine learning capable de différencier les vrais billets des faux. Mes missions comprenaient le traitement des données, notamment la gestion des valeurs manquantes avec des régressions linéaires et polynomiales, ainsi que la mise en œuvre de plusieurs algorithmes (régression logistique, KNN, Random Forest, K-means) pour entraîner le modèle. J'ai utilisé Python pour les analyses et documenté l'ensemble du processus dans un notebook, avec une application fonctionnelle permettant de prédire la nature des billets.
 
 
