@@ -28,7 +28,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Optimisez la gestion des données d'une boutique avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#optimisez-la-gestion-des-donn%C3%A9es-dune-boutique-avec-r-ou-python)
   * [Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#cr%C3%A9ez-un-tableau-de-bord-dynamique-avec-power-bi-pour-visualiser-lavancement-de-projets)
   * [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-des-indicateurs-de-l%C3%A9galit%C3%A9-femmeshommes-en-respect-du-rgpd)
-  * Analysez les ventes d'une librairie avec R ou Python
+  * [Analysez les ventes d'une librairie avec R ou Python]
   * Faites une étude sur l'eau potable
   * Produisez une étude de marché avec R ou Python
   * Détectez des faux billets avec R ou Python
@@ -56,3 +56,5 @@ En tant que Consultant Data Analyst chez ESN Data, j'ai participé à la créati
 
 ### [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Analysez%20des%20indicateurs%20de%20l'%C3%A9galit%C3%A9%20femmes%20hommes%20en%20respect%20du%20RGPD)
 En tant que Data Analyst dans un cabinet de consultants spécialisés dans la transformation digitale, j'ai travaillé sur un projet visant à automatiser le rapport sur l'égalité femmes-hommes pour une entreprise en croissance. Ma mission a consisté à collecter et anonymiser les données du SIRH en conformité avec le RGPD, à créer un workflow KNIME pour agréger les données et générer des graphiques illustrant la répartition hommes/femmes, ainsi qu'à préparer un fichier .csv pour les analyses futures. J'ai également préparé un support de présentation expliquant la méthodologie de collecte, les indicateurs calculés et proposant des pistes d'amélioration pour le score d'égalité l'année suivante.
+
+### [Analysez les ventes d'une librairie avec R ou Python]
