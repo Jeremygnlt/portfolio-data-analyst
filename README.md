@@ -30,7 +30,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Analysez des indicateurs de l'égalité femmes/hommes en respect du RGPD](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-des-indicateurs-de-l%C3%A9galit%C3%A9-femmeshommes-en-respect-du-rgpd)
   * [Analysez les ventes d'une librairie avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-les-ventes-dune-librairie-avec-r-ou-python)
   * [Faites une étude sur l'eau potable](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-%C3%A9tude-sur-leau-potable)
-  * [Produisez une étude de marché avec R ou Python]
+  * [Produisez une étude de marché avec R ou Python](
   * [Détectez des faux billets avec R ou Python]
   
 
@@ -64,7 +64,7 @@ Mes missions incluaient l'étude du chiffre d'affaires, l'analyse des profils cl
 ### [Faites une étude sur l'eau potable](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Faites%20une%20%C3%A9tude%20sur%20l'eau%20potable)
 En tant que Data Analyst, j'ai contribué au projet DWFA sur l’accès à l’eau potable en concevant trois tableaux de bord interactifs. Mon rôle a consisté à agréger et structurer les données par pays, continent et monde, puis à créer des visualisations adaptées pour analyser les facteurs influençant l'accès à l’eau potable. J'ai intégré des filtres dynamiques pour garantir l'interactivité et l'accessibilité des tableaux de bord. J'ai utilisé Power BI pour la création des dashboards et PowerPoint pour la présentation des résultats.
 
-### [Produisez une étude de marché avec R ou Python]
+### [Produisez une étude de marché avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Produisez%20une%20%C3%A9tude%20de%20march%C3%A9%20avec%20R%20ou%20Python)
 En tant que Data Analyst chez La Poule qui Chante, une entreprise agroalimentaire spécialisée dans le poulet bio, j’ai analysé les opportunités d’expansion internationale. Mon travail consistait à identifier des pays cibles pour l’exportation en utilisant des données économiques et politiques. J’ai réalisé une analyse en composantes principales (ACP) et un clustering pour regrouper les pays potentiels. J’ai ensuite présenté mes résultats et recommandations à la direction via PowerPoint, en utilisant Python pour l’analyse des données.
 
 ### [Détectez des faux billets avec R ou Python]
