@@ -70,4 +70,3 @@ En tant que Data Analyst chez La Poule qui Chante, une entreprise agroalimentair
 ### [Détectez des faux billets avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/D%C3%A9tectez%20des%20faux%20billets%20avec%20R%20ou%20Python)
 En tant que Data Analyst, j'ai contribué au projet de lutte contre le faux-monnayage pour l'ONCFM en développant un modèle de machine learning capable de différencier les vrais billets des faux. Mes missions comprenaient le traitement des données, notamment la gestion des valeurs manquantes avec des régressions linéaires et polynomiales, ainsi que la mise en œuvre de plusieurs algorithmes (régression logistique, KNN, Random Forest, K-means) pour entraîner le modèle. J'ai utilisé Python pour les analyses et documenté l'ensemble du processus dans un notebook, avec une application fonctionnelle permettant de prédire la nature des billets.
 
-
