@@ -22,9 +22,9 @@ En tant que Consultant Data Analyst, je suis déployé chez l'Organisation natio
 ## 🔧 Outils utilisés
 Python : Librairies pandas, numpy, scikit-learn, matplotlib, et seaborn pour l’analyse des données et la modélisation.
 Régression linéaire/polynomiale pour combler les valeurs manquantes dans les données.
-Jupyter Notebook pour l’application fonctionnelle et la présentation des résultats.
 Scikit-learn pour la mise en œuvre des algorithmes de machine learning (régression logistique, KNN, Random Forest).
 Matplotlib / Seaborn pour les visualisations des résultats.
+Jupyter Notebook pour l’application fonctionnelle et la présentation des résultats.
 
 ✅ Livrables
 Application fonctionnelle : Notebook Python avec l’application prédictive pour identifier la nature des billets à partir des données géométriques.
