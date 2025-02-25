@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/42194cb7-fb5c-406f-825c-b0a9835489f9)
 ## 📋 Situation
 Nous intervenons auprès de l’équipe de chercheurs de la **Food and Agriculture Organization (FAO)** en tant que **Data Analyst**. La FAO, en tant qu'organe des Nations Unies, a pour mission d’aider à éradiquer la faim dans le monde. Vous êtes chargé de contribuer à une **étude de grande envergure** sur l’alimentation, avec une attention particulière sur la **sous-nutrition mondiale**. Votre rôle consiste à analyser les **données historiques** de 2013 à 2017 pour compléter les analyses effectuées sur la période de 2018 à aujourd’hui.
 
