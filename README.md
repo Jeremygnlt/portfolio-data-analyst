@@ -61,4 +61,5 @@ En tant que Data Analyst dans un cabinet de consultants spécialisés dans la tr
 En tant que Data Analyst chez Lapage, une librairie physique ayant lancé son site de vente en ligne, j'ai analysé les ventes et le comportement des clients pour optimiser la stratégie commerciale.
 Mes missions incluaient l'étude du chiffre d'affaires, l'analyse des profils clients (âge, genre) et la réalisation de tests statistiques. J'ai synthétisé les résultats dans un support PowerPoint pour orienter les décisions du CODIR, en utilisant Python pour l'analyse et PowerPoint pour la présentation.
 
-## [Faites une étude sur l'eau potable]
+## [Faites une étude sur l'eau potable](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Faites%20une%20%C3%A9tude%20sur%20l'eau%20potable)
+En tant que Data Analyst, j'ai contribué au projet DWFA sur l’accès à l’eau potable en concevant trois tableaux de bord interactifs. Mon rôle a consisté à agréger et structurer les données par pays, continent et monde, puis à créer des visualisations adaptées pour analyser les facteurs influençant l'accès à l’eau potable. J'ai intégré des filtres dynamiques pour garantir l'interactivité et l'accessibilité des tableaux de bord. J'ai utilisé Power BI pour la création des dashboards et PowerPoint pour la présentation des résultats.
