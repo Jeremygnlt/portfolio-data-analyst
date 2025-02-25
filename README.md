@@ -31,7 +31,7 @@ Je suis toujours curieux de découvrir de nouveaux outils et d’approfondir mes
   * [Analysez les ventes d'une librairie avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#analysez-les-ventes-dune-librairie-avec-r-ou-python)
   * [Faites une étude sur l'eau potable](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#faites-une-%C3%A9tude-sur-leau-potable)
   * [Produisez une étude de marché avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst/blob/main/README.md#produisez-une-%C3%A9tude-de-march%C3%A9-avec-r-ou-python)
-  * [Détectez des faux billets avec R ou Python]
+  * [Détectez des faux billets avec R ou Python](https://github.com/Jeremygnlt/portfolio-data-analyst?tab=readme-ov-file#d%C3%A9tectez-des-faux-billets-avec-r-ou-python)
   
 
 * [Candidature Aeroworld](https://github.com/Jeremygnlt/portfolio-data-analyst/tree/main/Candidature%20Aeroworld)
