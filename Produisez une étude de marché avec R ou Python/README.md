@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/859ea123-682d-4e9f-98b1-26dd15278083)
+
 ## 📋 Situation
 En tant que Data Analyst chez La Poule qui Chante, une entreprise française d’agroalimentaire spécialisée dans l’élevage et la vente de poulets sous le label "Poulet Agriculture Biologique", j'ai participé à une mission d'expansion à l'international. L'objectif était d'évaluer les pays potentiels pour l'exportation des produits de l'entreprise. L'entreprise souhaite explorer la possibilité de développer l'activité à l'international, mais aucun pays ni continent n’a été choisi. Tous les pays sont envisageables, offrant un large éventail d'options.
 
