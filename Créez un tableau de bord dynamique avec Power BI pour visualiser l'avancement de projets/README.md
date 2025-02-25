@@ -1,5 +1,7 @@
+![image](https://github.com/user-attachments/assets/53c87300-648d-43d4-9dba-e2b546c69d6a)
+
 ## 📋 Situation
-En tant que Consultant Data Analyst chez ESN Data, une entreprise de services numériques (ESN), je suis déployé chez Sanitoral, une société internationale spécialisée dans la fabrication et la commercialisation de soins bucco-dentaires.
+En tant que Consultant Data Analyst chez ESN Data, une entreprise de services numériques, je suis déployé chez Sanitoral, une société internationale spécialisée dans la fabrication et la commercialisation de soins bucco-dentaires.
 Dans le cadre de cette mission, je collabore avec Sophie, cheffe de projet au sein du Project Management Office de Sanitoral. Son équipe a exprimé le besoin de concevoir un tableau de bord interactif permettant de :
 - Suivre l'avancement des projets et les coûts,
 - Identifier les retards,
