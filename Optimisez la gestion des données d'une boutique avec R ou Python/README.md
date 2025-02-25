@@ -1,3 +1,5 @@
+
+![image](https://github.com/user-attachments/assets/2c3c22f3-6330-4943-9643-57c3eae83e0a)
 ## 📋 Situation
 En tant que **Data Analyst** chez **BottleNeck**, un marchand de vin prestigieux, j'ai réalisé une mission visant à améliorer la gestion des stocks et l’analyse des ventes. L’entreprise utilise des outils artisanaux pour l’analyse des données, et la gestion des stocks est complexe. J'étais chargé de rapprocher et d’analyser les données des différentes sources afin de mieux comprendre les performances des produits et d’identifier les erreurs présentes dans les systèmes. La mission est divisée en deux phases : **agréger les données** et **analyser les données pour le CODIR**.
 
