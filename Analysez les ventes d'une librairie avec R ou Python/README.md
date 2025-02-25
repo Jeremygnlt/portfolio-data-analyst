@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/27b0c265-040b-4934-a50a-881aa63731c4)
+
 ## 📋 Situation
 En tant que Data Analyst chez Lapage, une librairie physique ayant lancé son site de vente en ligne il y a deux ans, nous avons pour mission d'analyser les ventes et le comportement des clients en ligne.
 L’objectif est d’optimiser la stratégie commerciale en comprenant les habitudes d’achat et en identifiant les tendances clés pour orienter les décisions du CODIR.
