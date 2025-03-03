@@ -13,26 +13,25 @@ Fournir des recommandations stratégiques : Présenter les résultats sous forme
 - Exploration et nettoyage des données :
 Charger et structurer les données issues de la base de ventes.
 Exclure les 4 clients BtoB atypiques des analyses statistiques.
-Analyse des indicateurs de vente :
 
-- Suivre l’évolution du chiffre d’affaires via des moyennes mobiles.
+- Analyse des indicateurs de vente :
+Suivre l’évolution du chiffre d’affaires via des moyennes mobiles.
 Étudier la répartition du chiffre d’affaires par catégorie de produit.
 Identifier les tops et flops : références les plus et les moins populaires.
-Analyse du comportement client :
 
-- Étudier les corrélations entre :
-Genre ↔ Catégories de livres achetés
-Âge ↔ Montant total des achats
-Âge ↔ Fréquence d’achat
-Âge ↔ Taille du panier moyen
-Visualiser ces relations avec des graphiques bivariés.
-Réalisation de tests statistiques :
+- Analyser le comportement client en étudiant les corrélations entre :
+Genre ↔ Catégories de livres achetés,
+Âge ↔ Montant total des achats,
+Âge ↔ Fréquence d’achat,
+Âge ↔ Taille du panier moyen.
 
-Test du Khi² : Relation entre genre et catégories achetées.
-ANOVA ou test de Student : Comparer les groupes d’âge et leurs comportements.
-Corrélation de Pearson/Spearman : Examiner les liens entre l’âge, les dépenses et la fréquence d’achat.
-Création d’un support de présentation :
-- Synthétiser les résultats dans un PowerPoint clair et concis pour le CODIR.
+- Réalisation de tests statistiques :
+Test du Khi²,
+ANOVA ou test de Student,
+Corrélation de Pearson/Spearman.
+
+- Création d’un support de présentation :
+Synthétiser les résultats dans un PowerPoint clair et concis pour le CODIR.
   
 ## 🔧 Outils utilisés
 - Python :
