@@ -35,7 +35,7 @@ stabilité politique,
 - PowerPoint : Support de présentation.
 
 ## ✅ Livrables
-- Un tableau de bord Power BI interactif comportant trois vues (vue mondiale, continentale, nationale) avec des filtres dynamiques et des visualisations adaptées.
+- Un tableau de bord Power BI interactif comportant trois vues (vue mondiale, continentale, nationale) avec des filtres dynamiques et des visualisations adaptées. [Consultable ici](https://app.powerbi.com/groups/me/reports/7cafa2c7-b5b5-4e01-bfcd-1c690df721e9/6ae1556183ceedc25521?experience=power-bi)
 - Support PowerPoint détaillant l’approche méthodologique, les résultats et les recommandations stratégiques.
 
 ## 🎓 Compétences acquises
