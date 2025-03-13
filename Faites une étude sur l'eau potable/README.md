@@ -30,13 +30,13 @@ stabilité politique,
 - Création d'un support de présentation incluant le contexte du projet, la méthodologie et le prétraitement des données, la justification des choix de visualisation et les insights clés.
 
 ## 🔧 Outils utilisés
-Power BI : Création de tableaux de bord interactifs et dynamiques.
-Excel : Prétraitement et nettoyage des données.
-PowerPoint : Support de présentation.
+- Power BI : Création de tableaux de bord interactifs et dynamiques.
+- Excel : Prétraitement et nettoyage des données.
+- PowerPoint : Support de présentation.
 
 ## ✅ Livrables
-Un tableau de bord Power BI interactif comportant trois vues (vue mondiale, continentale, nationale) avec des filtres dynamiques et des visualisations adaptées.
-Support PowerPoint détaillant l’approche méthodologique, les résultats et les recommandations stratégiques.
+- Un tableau de bord Power BI interactif comportant trois vues (vue mondiale, continentale, nationale) avec des filtres dynamiques et des visualisations adaptées.
+- Support PowerPoint détaillant l’approche méthodologique, les résultats et les recommandations stratégiques.
 
 ## 🎓 Compétences acquises
 - Création de tableaux de bord interactifs sur Power BI avec filtres dynamiques.
