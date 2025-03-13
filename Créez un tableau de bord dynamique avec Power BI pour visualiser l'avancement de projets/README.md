@@ -28,7 +28,7 @@ Dans le cadre de cette mission, je collabore avec Sophie, cheffe de projet au se
 - **Product Strategy Canvas** : Formalisation des besoins métier.
 
 ## ✅ Livrables
-Tableau de bord Power BI : visualisations interactives des projets, coûts, retards et performances.
+Tableau de bord Power BI : visualisations interactives des projets, coûts, retards et performances. [Consultable ici](https://app.powerbi.com/groups/me/reports/c3f2bd2f-d1d8-4d5a-ad3f-ad72461615ec/1a175152dbaa7715f60a?experience=power-bi)
 
 ## 🎓 Compétences acquises
 - Maîtrise de Power BI et Power Query Editor pour l'automatisation des mises à jour.
