@@ -19,4 +19,4 @@ Je partage ces valeurs et je souhaite accompagner vos équipes en proposant des 
 - **Gestion de Projet :** Organisation et suivi rigoureux, de la collecte des besoins à la livraison des solutions.  
 ---
 
-🎯 Je suis enthousiaste à l’idée de **relever vos défis Data** et de contribuer à l’amélioration continue de vos processus analytiques chez **Aéroworld**.
+🎯 Je suis enthousiaste à l’idée de **relever vos défis Data** et de contribuer à l’amélioration continue des processus analytiques chez **Aéroworld**.
