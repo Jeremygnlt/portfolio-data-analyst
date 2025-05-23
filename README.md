@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Jérémy, ancien professionnel du secteur bancaire avec plus de 10 ans d'expérience, et actuellement en reconversion vers le métier de Data Analyst. Je suis passionné par l'analyse des données et convaincu que celles-ci constituent un levier stratégique essentiel pour la prise de décision en entreprise.
+Jérémy, ancien professionnel du secteur bancaire avec plus de 10 ans d'expérience, ayant réalisé une reconversion professionnelle vers le métier de Data Analyst. Je suis passionné par l'analyse des données et convaincu que celles-ci constituent un levier stratégique essentiel pour la prise de décision en entreprise.
 
 🎓 Formation : Certification professionnelle Data Analyst (OpenClassrooms – 2025), Licence Professionnelle Assurance, Banque, Finance (Université d'Orléans - 2013), BTS Négociation Relation Client (2012).
 
